@@ -19,3 +19,5 @@ THe following technologies were used:
 ## Instructions
 THe project has been deployed to Heroku here:
 [https://pwa-budget-hw19.herokuapp.com/](https://pwa-budget-hw19.herokuapp.com/)
+
+![image](https://user-images.githubusercontent.com/7930889/148908537-0e4caf2b-d643-4b06-b23b-17958b6adbb7.png)
